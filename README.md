@@ -280,4 +280,4 @@ Butuh library luar Python (non-pip)	Conda
 Gunakan Conda jika kamu butuh fleksibilitas tinggi untuk proyek data science dan non-Python dependencies.
 Gunakan UV jika kamu ingin kecepatan, kesederhanaan, dan proyek Python murni yang modern.
 
-## Sekian dan Terimakasih 👋
+## Sekian dan Terimakasih 👋 Wasalam..!!!
